@@ -26,7 +26,7 @@ Supports decimal values
 
 👩‍💻 Author
 Monika Kumari
-Aspiring Web Developer
+Aspiring Software Developer
 
 
 ⭐ Acknowledgement
